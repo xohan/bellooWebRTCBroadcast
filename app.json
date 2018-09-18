@@ -2,6 +2,6 @@
   "name": "Belloo WEBRTC broadcast server",
   "description": "Powered by Premium Dating Script",
   "repository": "https://github.com/xohan/bellooWebRTCBroadcast",
-  "logo": "",
+  "logo": "https://www.premiumdatingscript.com/dashboard/logo-p.jpg",
   "keywords": ["node", "express", "static"]
 }
